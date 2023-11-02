@@ -1,0 +1,56 @@
+body{
+    background-image: url(Media/Vending.jpg);
+    background-repeat: no-repeat;
+    background-size: fill;
+    background-position: fixed;
+}
+.container{
+    display: flex;
+    border: 10px solid;
+    height: 95vh;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    font-size: 8em;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 20px;
+}
+#box1{
+    background-color: hsla(0, 100%, 58%, 0.397);
+    align-self: flex-start;
+    justify-content: flex-end;
+}
+#box2{
+    background-color: hsla(60, 100%, 50%, 0.397);
+}
+#box3{
+    background-color: hsla(120, 100%, 25%, 0.397);
+}
+#heading{
+    text-align: center;
+}
+.form{
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    background-color: rgba(0, 0, 0, .3);
+    border-radius: 20px;
+    height: 40vh;
+    padding: 30px;
+    color: rgb(255, 255, 255);   
+}
+.inputarea input{
+    border-radius: 5px;
+}
+#submitbtn input{
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+}

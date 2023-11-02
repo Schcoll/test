@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stud_info>
+	<stud category="Science">
+		<sname lang="en">Rohit Sharma</sname>
+		<rno>459</rno>
+		<year>2017</year>
+		<marks>890</marks>
+	</stud>
+	<stud category="Arts">
+		<sname lang="en">Rohit Sharma</sname>
+		<rno>459</rno>
+		<year>2017</year>
+		<marks>890</marks>
+	</stud>
+	<stud category="Commerce">
+		<sname lang="en">Rohit Sharma</sname>
+		<rno>459</rno>
+		<year>2017</year>
+		<marks>890</marks>
+	</stud>
+</stud_info>
